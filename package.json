@@ -8,7 +8,7 @@
   },
   "type": "module",
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "pdf-img-convert": "^1.2.1"
   }
